@@ -1,8 +1,8 @@
 {
-  "name": "material-design-icons",
-  "version": "1.0.1",
+  "name": "material-design-icons-svg",
+  "version": "1.0.1-svg",
   "author": "Material Design Authors",
-  "description": "Material Design icons by Google",
+  "description": "Material Design icons by Google, SVG only package",
   "keywords": [
     "icons",
     "material",
