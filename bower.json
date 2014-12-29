@@ -10,5 +10,6 @@
     "google"
   ],
   "license": "CC-BY-4.0",
-  "homepage": "http://google.com/design/spec"
+  "homepage": "http://google.com/design/spec",
+  "ignore": ["*", "!.svg"]
 }
